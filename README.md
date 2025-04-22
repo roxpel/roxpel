@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Roxane 👋👩🏽‍💻  
 
-<!--
-**roxpel/roxpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DATA SCIENTIST · STRATEGIC THINKER · BUILDER**
 
-Here are some ideas to get you started:
+I'm a data scientist who loves turning complex ideas into products, strategies, and stories that actually work.  
+I’ve lived in 6 countries, speak 3 languages fluently — and found my favorite one in code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I come from a background in big tech, insights, and storytelling. At TikTok, I led research and insights across a $250M+ market and founded Skeeva, an AI-powered skincare coach. I’m especially drawn to building things that connect data with real human impact.
+
+Let’s connect, collaborate, or just talk ideas 🧠
+
+**🌍 Find me around the web:**
+
+- 📝 [LinkedIn](https://www.linkedin.com/in/roxanepeloux)
+- 💻 [Portfolio](https://troopl.com/roxanepeloux)
