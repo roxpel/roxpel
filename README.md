@@ -1,6 +1,6 @@
 ## Hi there, I'm Roxane 👋👩🏽‍💻  
 
-**DATA SCIENTIST · STRATEGIC THINKER · BUILDER**
+**DATA SCIENTIST · BUILDER · STORYTELLER**
 
 I'm a data scientist who loves turning complex ideas into products, strategies, and stories that actually work.  
 I’ve lived in 6 countries, speak 3 languages fluently — and found my favorite one in code.
