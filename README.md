@@ -1,4 +1,4 @@
-![ ](./banner.png)
+![ ](./banner.mp4)
 
 ## Hi there, I'm Roxane 👋👩🏽‍💻  
 
